@@ -1,0 +1,57 @@
+/* Responsive Style */
+
+/* Mobile Devices */
+
+@media screen and (max-width:576px) {
+    .card-container{
+        flex-direction: column;
+    }
+    .funny-vdo-container{
+        flex-direction: column;
+    }
+    .knowmore-container{
+        flex-direction: column;
+    }
+    .banner-container{
+        flex-direction: column;
+    }
+    .nav-container{
+        flex-direction: column;
+    }
+    .nav-logo-container{
+        flex-direction: column;
+    }
+    .nav-items-container{
+        flex-direction: column;
+    }
+    .banner-container{
+        flex-direction: column;
+    }
+    .play-instant-container{
+        flex-direction: column;
+    }
+    .play-games-container{
+        flex-direction: column;
+    }
+    .career-container{
+        flex-direction: column;
+    }
+    .category-container{
+        flex-direction: column;
+    }
+    .footer-logo-container{
+        flex-direction: column;
+    }
+    .footer-items-container{
+        flex-direction: column;
+    }
+    .footer-logo-container2{
+        flex-direction: column;
+    }
+    .privacy-container{
+        flex-direction: column;
+    }
+    .items1{
+        flex-direction: column;
+    }
+}
